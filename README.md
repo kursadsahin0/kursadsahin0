@@ -1,5 +1,15 @@
-# 💫 About Me:
-🎓 I graduated from Bartın University Management information system.<br><br>✅ I’m interested in Web development since second year of the university. I started to develop Project with Javascript and React.<br><br>💭 I develope myself in terms of research, self-motivation and acquiring different abilities.<br><br>✅ I’m a team player, willing to be trained for growth.<br><br>✅ I’m believe that everyday is a new start.<br><br>
+### 💫 About Me
+
+💻 Frontend Developer focused on building modern, scalable, and user-centered web applications.
+
+⚙️ Experienced with React, Vue.js, Next.js, and Quasar, with a strong focus on clean, maintainable, and reusable code.
+
+🚀 Passionate about developing high-quality digital products with an emphasis on performance, usability, and responsive design.
+
+📚 Continuously improving my technical expertise and keeping up with modern web development practices.
+
+🤝 Value collaboration, clear communication, problem-solving, and continuous professional growth.
+
 
 
 ## 🌐 Socials:
