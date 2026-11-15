@@ -12,12 +12,12 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
+| [menümGo](https://github.com/kursadsahin0/menumGo) | QR code digital menu for cafes and restaurants (TR/EN, allergens, stock) | Vue.js, Quasar, Pinia, Fastify, Prisma |
 | [ParkKasa](https://github.com/kursadsahin0/park_kasa) | Parking cash desk, subscription and end-of-day management panel · [Live](https://park-kasa.vercel.app) | Vue.js, Quasar, Pinia, Supabase |
 | [KPSS Haritası](https://github.com/kursadsahin0/kpssharitasi) | Free KPSS exam prep app with a topic map, quizzes and progress tracking · [Live](https://kpssharitasi.vercel.app) | Vue.js, Quasar, Pinia |
 | [CodeDNA](https://github.com/kursadsahin0/codeDNA) | Developer tool that maps a repository's dependencies, architecture and change impact | Next.js, TypeScript, Tailwind CSS |
 | [CryptoPulse](https://github.com/kursadsahin0/cryptoPulse) | Real-time crypto analytics with watchlist and portfolio tracking | Vue.js, Quasar, Pinia |
 | [Liora](https://github.com/kursadsahin0/liora-beauty) | Beauty salon website with a WhatsApp booking flow | Next.js, TypeScript, GSAP |
-| [menümGo](https://github.com/kursadsahin0/menumGo) | QR code digital menu for cafes and restaurants (TR/EN, allergens, stock) | Vue.js, Quasar, Pinia, Fastify, Prisma |
 
 ## 💻 Tech Stack
 
