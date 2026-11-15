@@ -17,7 +17,7 @@
 | [CryptoPulse](https://github.com/kursadsahin0/cryptoPulse) | Real-time crypto analytics with watchlist and portfolio tracking | Vue.js, Quasar, Pinia |
 | [CodeDNA](https://github.com/kursadsahin0/codeDNA) | Developer tool that maps a repository's dependencies, architecture and change impact | Next.js, TypeScript, Tailwind CSS |
 | [ParkKasa](https://github.com/kursadsahin0/park_kasa) | Parking cash desk, subscription and end-of-day management panel · [Live](https://park-kasa.vercel.app) | Vue.js, Quasar, Pinia, Supabase |
-| [Yeşil Bakery](https://github.com/kursadsahin0/green_bakery) | One-page website for a croissant bakery in Trabzon with products, Google reviews and map | Vue.js, Vite |
+| [Yeşil Bakery](https://github.com/kursadsahin0/green_bakery) | One-page website for a croissant bakery in Trabzon with products, Google reviews and map · [Live](https://yesilbakery.netlify.app) | Vue.js, Vite |
 
 ## 💻 Tech Stack
 
