@@ -12,7 +12,7 @@
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [menümGo](https://github.com/kursadsahin0/menumGo) | QR code digital menu for cafes and restaurants (TR/EN, allergens, stock) | Vue.js, Quasar, Pinia, Fastify, Prisma |
+| [menümGo](https://github.com/kursadsahin0/menumGo) | QR code digital menu for cafes and restaurants (TR/EN, allergens, stock) · [Live](https://menumgo.netlify.app) | Vue.js, Quasar, Pinia, Fastify, Prisma |
 | [KPSS Haritası](https://github.com/kursadsahin0/kpssharitasi) | Free KPSS exam prep app with a topic map, quizzes and progress tracking · [Live](https://kpssharitasi.com.tr) | Vue.js, Quasar, Pinia |
 | [CryptoPulse](https://github.com/kursadsahin0/cryptoPulse) | Real-time crypto analytics with watchlist and portfolio tracking | Vue.js, Quasar, Pinia |
 | [CodeDNA](https://github.com/kursadsahin0/codeDNA) | Developer tool that maps a repository's dependencies, architecture and change impact · [Live](https://codednas.netlify.app) | Next.js, TypeScript, Tailwind CSS |
