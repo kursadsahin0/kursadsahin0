@@ -17,7 +17,7 @@
 | [CodeDNA](https://github.com/kursadsahin0/codeDNA) | Developer tool that maps a repository's dependencies, architecture and change impact | Next.js, TypeScript, Tailwind CSS |
 | [CryptoPulse](https://github.com/kursadsahin0/cryptoPulse) | Real-time crypto analytics with watchlist and portfolio tracking | Vue.js, Quasar, Pinia |
 | [Liora](https://github.com/kursadsahin0/liora-beauty) | Beauty salon website with a WhatsApp booking flow | Next.js, TypeScript, GSAP |
-| [Tripma](https://github.com/kursadsahin0/tripma) | Flight booking UI adapted from a Figma design | Vue.js, Pinia, Vite |
+| [menümGo](https://github.com/kursadsahin0/menumGo) | QR code digital menu for cafes and restaurants (TR/EN, allergens, stock) | Vue.js, Quasar, Pinia, Fastify, Prisma |
 
 ## 💻 Tech Stack
 
